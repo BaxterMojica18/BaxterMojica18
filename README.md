@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Baxter David M. Mojica, also known here as @BaxterMojica18
-- 🌱 I’m currently a 4th Year College Student studying BS Computer Engineering at De La Salle University-Dasmarinas
-- 📫 You can reach me through my school email: Mjm0181@dlsud.edu.ph or through my personal email: baxtermojica1812@gmail.com
+- 🌱 I am a Computer Engineer and I am aspiring to be a Software Engineer that uses Python and hopefully go to ML/AI Engineer in the future
+- 📧 You can contact me by work email baxterdavid.mojica@gmail.com
